@@ -1,0 +1,22 @@
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\bin\Debug\XO.Test.dll
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\bin\Debug\XO.Test.pdb
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\bin\Debug\nunit.framework.dll
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\bin\Debug\XO Online.exe
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\bin\Debug\XO Online.pdb
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\bin\Debug\nunit.framework.xml
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\obj\Debug\XO.Test.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\obj\Debug\XO.Test.dll
+C:\Users\Андрей\Documents\GitHub\XO Online\XO.Test\obj\Debug\XO.Test.pdb
+C:\Users\Admin\Desktop\XO Online\XO.Test\bin\Debug\XO.Test.dll
+C:\Users\Admin\Desktop\XO Online\XO.Test\bin\Debug\XO.Test.pdb
+C:\Users\Admin\Desktop\XO Online\XO.Test\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\XO Online\XO.Test\bin\Debug\XO Online.exe
+C:\Users\Admin\Desktop\XO Online\XO.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\XO Online\XO.Test\bin\Debug\XO Online.pdb
+C:\Users\Admin\Desktop\XO Online\XO.Test\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\XO Online\XO.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\XO Online\XO.Test\obj\Debug\XO.Test.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\XO Online\XO.Test\obj\Debug\XO.Test.dll
+C:\Users\Admin\Desktop\XO Online\XO.Test\obj\Debug\XO.Test.pdb

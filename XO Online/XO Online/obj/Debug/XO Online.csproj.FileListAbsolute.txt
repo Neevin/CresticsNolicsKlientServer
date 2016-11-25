@@ -1,0 +1,26 @@
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\bin\Debug\XO Online.exe.config
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\bin\Debug\XO Online.exe
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\bin\Debug\XO Online.pdb
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\obj\Debug\XO Online.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\obj\Debug\XO_Online.mainForm.resources
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\obj\Debug\XO_Online.Properties.Resources.resources
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\obj\Debug\XO Online.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\obj\Debug\XO Online.exe
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\obj\Debug\XO Online.pdb
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\bin\Debug\nunit.framework.dll
+C:\Users\Андрей\Documents\GitHub\XO Online\XO Online\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\XO Online\XO Online\bin\Debug\XO Online.exe.config
+C:\Users\Admin\Desktop\XO Online\XO Online\obj\Debug\XO Online.exe
+C:\Users\Admin\Desktop\XO Online\XO Online\obj\Debug\XO Online.pdb
+C:\Users\Admin\Desktop\XO Online\XO Online\bin\Debug\XO Online.exe
+C:\Users\Admin\Desktop\XO Online\XO Online\bin\Debug\XO Online.pdb
+C:\Users\Admin\Desktop\XO Online\XO Online\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\XO Online\XO Online\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\XO Online\XO Online\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\XO Online\XO Online\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\XO Online\XO Online\obj\Debug\XO Online.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\XO Online\XO Online\obj\Debug\XO_Online.mainForm.resources
+C:\Users\Admin\Desktop\XO Online\XO Online\obj\Debug\XO_Online.Properties.Resources.resources
+C:\Users\Admin\Desktop\XO Online\XO Online\obj\Debug\XO Online.csproj.GenerateResource.Cache
